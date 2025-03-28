@@ -1,5 +1,3 @@
-# SCT_CS_03
-GitHub README
 🔒 Password Strength Checker Tool
 A Python program that evaluates the strength of a password based on multiple criteria and provides helpful suggestions for improvement. This tool is a great way to understand password security principles and learn how to use regular expressions in Python.
 
@@ -30,7 +28,8 @@ Steps
 Clone this repository:
 bash
 Copy code
-git clone https://github.com/SUHAS-HAR1SH/SCT_CS_03.git
+git clone
+https://github.com/Bottasai7093/SAI-PRASAD-SCT_CS_03.git
 cd password-strength-checker
 Run the program:
 bash
